@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-dogscreener.dog-E39B3B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dogscreener.dog)
+[![Website](https://img.shields.io/badge/Website-dogscreener.org-E39B3B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dogscreener.org)
 [![X](https://img.shields.io/badge/X-@dogscreener__org-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dogscreener_org)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dogscreener_org)
 [![Telegram Chat](https://img.shields.io/badge/Telegram-Community-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dogscreener_chat)
@@ -53,6 +53,6 @@
 
 **Much screen. Very chart. Wow.** 🐾
 
-[dogscreener.dog](https://dogscreener.dog) · [X](https://x.com/dogscreener_org) · [Telegram](https://t.me/dogscreener_org) · [Community](https://t.me/dogscreener_chat)
+[dogscreener.org](https://dogscreener.org) · [X](https://x.com/dogscreener_org) · [Telegram](https://t.me/dogscreener_org) · [Community](https://t.me/dogscreener_chat)
 
 </div>
